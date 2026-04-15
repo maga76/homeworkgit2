@@ -260,4 +260,15 @@ header input {
   height: 316px;
   border-radius: 14px;
   box-shadow: 0px 0px 5px grey;
+}
+
+.section6 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
 }/*# sourceMappingURL=style.css.map */

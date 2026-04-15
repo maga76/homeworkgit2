@@ -238,3 +238,8 @@ header{
 .cardminMAN{
     @include cardminMAN();
 }
+.section6{
+    @include container();
+    display: flex;
+    flex-direction: column;
+}
