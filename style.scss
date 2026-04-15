@@ -243,3 +243,7 @@ header{
     display: flex;
     flex-direction: column;
 }
+.footer{
+    @include container();
+    background-color: #2B2B39;
+}

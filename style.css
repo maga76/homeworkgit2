@@ -271,4 +271,13 @@ header input {
   padding: 20px;
   display: flex;
   flex-direction: column;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px;
 }/*# sourceMappingURL=style.css.map */
